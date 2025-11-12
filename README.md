@@ -1,7 +1,6 @@
 # Machine Learning 2025
 
 ## About ML Zoomcamp
-This is a practical course where you'll learn to build and deploy machine learning systems. We focus on the engineering side from training models to getting them to work in production.
 
 ### Module 1: Introduction to Machine Learning
 Learn the fundamentals: what ML is, when to use it, and how to approach ML problems using the CRISP-DM framework.
